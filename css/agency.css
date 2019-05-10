@@ -304,10 +304,7 @@ header.masthead .intro-text .intro-heading {
         position:relative;
         top: 120px;
     }
-    .map iframe{
-        max-width: 100%;
-        height: auto;
-    }
+    
 }
 
 
